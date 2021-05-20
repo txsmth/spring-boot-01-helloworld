@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\BaiduNetdiskDownload\bilibili-springboot\源码、资料、课件\源码、资料、课件\代码\spring-boot-01-helloworld\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

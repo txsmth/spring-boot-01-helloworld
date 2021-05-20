@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: com-demo-spring01
+
+
+
+server:
+  port: 18080
+  tomcat:
+    accept-count: 1000
+    max-connections: 20000
+    max-threads: 800
+
