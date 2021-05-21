@@ -1,6 +1,6 @@
 spring:
   application:
-    name: com-demo-spring01
+    name: spring-boot-01-helloworld
 
 
 
